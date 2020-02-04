@@ -1,0 +1,59 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+/Assets/UnityVS
+/Assets/UnityVS.meta
+/bin
+/Library
+/Temp
+/obj
+/Assets/GameDesignTests/SimulationArchipelago/Resources/Output
+/*.csproj
+/*.user
+/*.unityproj
+/*.pidb
+/*.sln
+/*.suo
+/*.DotSettings
+/*.sln.DotSettings.user
+/*.userprefs
+
+.DS_Store
+sysinfo.txt
+*.userprefs
+xCode
+
+/.idea
+*.iml
+CommandScript.sh
+ShellScript.sh
